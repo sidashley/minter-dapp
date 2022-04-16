@@ -49,8 +49,8 @@ const LIMIT = 2; // Your API key rate limit
 const CHAIN = 'rinkeby'; // only rinkeby or polygon
 
 // REQUIRED CONTRACT DETAILS THAT CANNOT BE UPDATED LATER!
-const CONTRACT_NAME = 'CRYPTOPUNKS';
-const CONTRACT_SYMBOL = 'CP';
+const CONTRACT_NAME = 'Project S.xyz';
+const CONTRACT_SYMBOL = 'PRTS';
 const METADATA_UPDATABLE = true; // set to false if you don't want to allow metadata updates after minting
 const OWNER_ADDRESS = '0x6ff48276b2b0A200735CA01949D2994871B2BcbF';
 const TREASURY_ADDRESS = '0x6ff48276b2b0A200735CA01949D2994871B2BcbF';
