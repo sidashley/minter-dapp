@@ -1,9 +1,9 @@
 const contractAddress = "0xA8BE4E3ec9154D5af661e95AdAe2A97380C9D322"; //Replace with your own contract address
 const chain = 'rinkeby'; // rinkeby or polygon
 
-const welcome_h1 = "Welcome to the Project S NFT Project!!";
+const welcome_h1 = "Welcome to the Project-S.xyz NFT Project!!";
 const welcome_h2 = "Connect to MetaMask to Get Started";
-const welcome_p = 'The Project S NFT Project is a decentralized, open-source project that aims to do something, probably, this is a placeholder.';
+const welcome_p = 'The Project-S.xyz NFT Project is a decentralized, open-source project that aims to do something, probably, this is a placeholder.';
 const h1_presale_coming_soon = "NFT Drop Coming Soon!!";
 const h1_presale_mint = "Pre-Sale Minting Open!!";
 const h1_public_mint = "Public Minting Open!!";
